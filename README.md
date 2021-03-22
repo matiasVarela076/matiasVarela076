@@ -1,5 +1,5 @@
 Mi nombre es Matías Varela, soy estudiante de programación en la universidad de Lomas de Zamora y soy Desarrollador FullStack.
-Me gusta trabajar en equipo, y siempre estoy buscando soluciones Innovadoras y autosuperame.
+Me gusta trabajar en equipo, siempre estoy buscando soluciones Innovadoras y autosuperame.
 Actualmente me especializo en el lenguaje Java, y poseo conocimientos en: 
 
 -MySql
